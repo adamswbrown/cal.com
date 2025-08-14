@@ -1,1 +1,0 @@
-export { CalendarSwitchComponent } from "./CalendarSwitch";
